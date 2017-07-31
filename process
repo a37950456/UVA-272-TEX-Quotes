@@ -6,3 +6,6 @@
 bool只有true false 所以要給一個初使值 
 做完判斷並輸出之後要改變bool 所以使用 word =! word 
 不用判斷的部分計軸街用 putchar(c); 輸出
+
+相關網站：https://openhome.cc/Gossip/CGossip/PutcharGetcharPutsGets.html  （getchar putchar
+
